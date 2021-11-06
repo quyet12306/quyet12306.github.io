@@ -42,7 +42,7 @@ body{
 
 .row{
     color: white;
-    margin-left: 20px;
+    margin-left: 2%;
 }
 
 .banner{
@@ -141,6 +141,7 @@ h2{
 .nav-avatar{
     width: 30px;
     object-fit: contain;
+    float: right;
 }
 
 .nav{
